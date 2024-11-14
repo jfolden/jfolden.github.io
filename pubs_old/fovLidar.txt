@@ -1,0 +1,6 @@
+@article{pittaluga2020lidar,
+  title={A MEMS-based Foveating LIDAR to enable Real-time Adaptive Depth Sensing},
+  author={Pittaluga, Francesco and Tasneem, Zaid and Folden, Justin and Tilmon, Brevin and Chakrabarti, Ayan and Koppal, Sanjeev J},
+  journal={arXiv preprint arXiv:2003.09545},
+  year={2020}
+}

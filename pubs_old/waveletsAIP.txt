@@ -1,0 +1,6 @@
+@article{Bunget:waveletsAIP,
+author={Gheorghe Bunget, Brevin Tilmon, Andrew Yee, Dylan Stewart, James Rogers, Matthew Webster, Kevin Farinholt, Fritz Friedersdorf, Marc Pepi, and Anindya Ghoshal},
+journal={AIP Conference Proceedings 1949, 070003},
+title={Novel approach of wavelet analysis for nonlinear ultrasonic measurements and fatigue assessment of jet engine components},
+year={2018},
+}

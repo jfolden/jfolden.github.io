@@ -1,0 +1,14 @@
+# # Ignore everything
+# /*
+
+# # Except the .gitignore file
+# !.gitignore
+
+# # Except the .git directory (Note: Git does not track this directory, but we'll include it for completeness)
+# !.git
+
+# # Except the .github directory and its contents
+# !.github/
+# !.github/**
+
+# # If you have other Git-related directories you want to keep, unignore them as well

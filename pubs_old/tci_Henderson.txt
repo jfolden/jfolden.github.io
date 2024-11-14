@@ -1,0 +1,8 @@
+@ARTICLE{8950422, author={K. {Henderson} and X. {Liu} and J. {Folden} and B. {Tilmon} and S. {Jayasuriya} and S. {Koppal}}, 
+journal={IEEE Transactions on Computational Imaging}, 
+title={Design and Calibration of a Fast Flying-Dot Projector for Dynamic Light Transport Acquisition}, 
+year={2020}, 
+volume={6}, 
+number={}, 
+pages={529-543}
+}
