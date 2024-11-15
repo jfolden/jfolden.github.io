@@ -1,6 +1,0 @@
-@article{Tilmon:foveaCam,
-author={Brevin Tilmon, Eakta Jain, Silvia Ferrari, and Sanjeev Koppal},
-journal={Proc. IEEE ICCP},
-title={{FoveaCam: A MEMS Mirror-Enabled Foveating Camera}},
-year={2020},
-}
